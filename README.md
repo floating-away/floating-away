@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 int main() {
-  printf("中文写作者、Web 开发者。"); // Chinese writer. Web developer.
+  printf("自负过头的中文写作者、Web 开发者。"); // Too conceited Chinese writer and Web developer.
   return 0;
 }
 ```
