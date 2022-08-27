@@ -9,7 +9,7 @@
 
 int main()
 {
-  printf("自负过头的中文写作者、Web 开发者。"); // Too conceited Chinese writer and Web developer.
+  printf("自负过头。"); // Too conceited.
   return 0;
 }
 ```
