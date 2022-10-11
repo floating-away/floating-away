@@ -1,8 +1,15 @@
-# 🙋 Nihao!
+# 你好，~~在吗~~
 
-> “每当我看向窗外，那块浮冰总是那样耀眼。从那时起，我一直记着：世界上有两个小生灵——不对，不止两个——他们乘着不知何时就会融化的浮冰，向着世界冒险。”
->
-> 「窓の外を見ると、その浮氷はいつも眩しかった。あの時以来、世の中にはいる二つの生き物、いや、二つに止まらなくて、いつ解けるか解らない浮氷を乗って、世界へ冒険していたと、あたしはずっと覚えているんだ。」
+![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+<div>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+</div>
+
 
 ```cpp
 #include <stdio.h>
@@ -13,3 +20,5 @@ int main()
   return 0;
 }
 ```
+
+![Stats](https://count.getloli.com/get/@kanfubing)
