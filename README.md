@@ -12,7 +12,6 @@
 
 - 博客：[chuangwai.top](https://chuangwai.top)
 - 服务故障监控页：[status.chuangwai.top](https://status.chuangwai.top)
-- Email：[fubing@chuangwai.top](mailto:fubing@chuangwai.top)
 - Line：[line.me/ti/p/HeSQsz6KSR](https://line.me/ti/p/HeSQsz6KSR)
 - Line 闲聊群：[line.me/ti/g/R8O4Rti_Sa](https://line.me/ti/g/R8O4Rti_Sa)
 
@@ -25,5 +24,3 @@ int main()
   return 0;
 }
 ```
-
-![Stats](https://count.getloli.com/get/@kanfubing)
