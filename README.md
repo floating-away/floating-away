@@ -10,7 +10,7 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </div>
 
-- 博客：[chuangwai.top](https://chuangwai.top)
+- 博客：[blog.chuangwai.top](https://blog.chuangwai.top)
 - 服务故障监控页：[status.chuangwai.top](https://status.chuangwai.top)
 - Line：[line.me/ti/p/HeSQsz6KSR](https://line.me/ti/p/HeSQsz6KSR)
 - Line 闲聊群：[line.me/ti/g/R8O4Rti_Sa](https://line.me/ti/g/R8O4Rti_Sa)
