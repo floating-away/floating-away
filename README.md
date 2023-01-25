@@ -12,8 +12,7 @@
 
 - 博客：[blog.chuangwai.top](https://blog.chuangwai.top)
 - 服务故障监控页：[status.chuangwai.top](https://status.chuangwai.top)
-- Line：[line.me/ti/p/HeSQsz6KSR](https://line.me/ti/p/HeSQsz6KSR)
-- Line 闲聊群：[line.me/ti/g/R8O4Rti_Sa](https://line.me/ti/g/R8O4Rti_Sa)
+- Discord：[窓外浮氷 #4435](https://discordapp.com/users/1006501257537654814)
 
 ```cpp
 #include <stdio.h>
