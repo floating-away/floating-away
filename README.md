@@ -10,16 +10,18 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </div>
 
-- 博客：[blog.chuangwai.top](https://blog.chuangwai.top)
-- 服务故障监控页：[status.chuangwai.top](https://status.chuangwai.top)
-- Discord：[窓外浮氷 #4435](https://discordapp.com/users/1006501257537654814)
+- Blog: [blog.chuangwai.top](https://blog.chuangwai.top)
+- Monitor: [status.chuangwai.top](https://status.chuangwai.top)
+- Discord: [窓外浮氷 #4435](https://discordapp.com/users/1006501257537654814)
+- Mastodon (Japanese): [@fuhyou@mstdn.jp](https://mstdn.jp/@fuhyou)
+- Mastodon (Chinese): [@shi@mastodon.li](https://mastodon.li/@shi)
 
 ```cpp
 #include <stdio.h>
 
 int main()
 {
-  printf("自负过头。"); // Too conceited.
+  printf("一边犯错，一边尝试。"); 
   return 0;
 }
 ```
