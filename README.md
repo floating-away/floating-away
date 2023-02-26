@@ -1,4 +1,4 @@
-# 你好，~~在吗~~
+# Hi, Windspringers!
 
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
@@ -10,12 +10,14 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </div>
 
+A personal lab, shelf and endless project – [Windspring](https://github.com/KanFuBing/Windspring), which means *outside the window*. Support me by [donating](buymeacoffee.com/windspring).
+
 ```cpp
 #include <stdio.h>
 
 int main()
 {
-  printf("一边犯错，一边尝试。"); 
+  printf("Make mistakes and make attempts."); 
   return 0;
 }
 ```
