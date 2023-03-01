@@ -8,7 +8,7 @@
 
 A personal lab, shelf and endless project – [Windspring](https://github.com/KanFuBing/Windspring), a made-up word that means *outside the window*.
 
-Support me by [donating](buymeacoffee.com/windspring).
+Support me by [donating](https://buymeacoffee.com/windspring).
 
 ```cpp
 #include <stdio.h>
